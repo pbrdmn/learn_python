@@ -10,5 +10,5 @@ class Test_TestIncrementDecrement(unittest.TestCase):
         self.assertEquals(inc_dec.decrement(3), 2)
 
 
-if __name__ == '__main':
+if __name__ == '__main__':
     unittest.main()
