@@ -7,5 +7,5 @@ class Test_Cube(unittest.TestCase):
         self.assertEquals(cube.cube(3), 27)
 
 
-if __name__ == '__main':
+if __name__ == '__main__':
     unittest.main()
