@@ -1,5 +1,6 @@
 {
   "python.unitTest.unittestEnabled": true,
   "python.unitTest.pyTestEnabled": false,
-  "python.unitTest.nosetestsEnabled": false
+  "python.unitTest.nosetestsEnabled": false,
+  "python.pythonPath": "/usr/local/opt/python/bin/python3.7"
 }
